@@ -1,3 +1,4 @@
+Please do read the Readmefile in main root branch along with this.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
