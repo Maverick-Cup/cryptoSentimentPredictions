@@ -1,8 +1,10 @@
 Every line is a must read
 
-Website URL - https://ycsjtsizxapriacj.vercel.app/ 
+**Website URL - _https://ycsjtsizxapriacj.vercel.app/_**
 # cryptoSentimentPredictions
-This simple app powered by Coingecko API for data tried to use EMA and gather sentiments to predict 24H future signal and powered by Vercel.
+This simple app powered by Coingecko API for data tries to use EMA technique and gather sentiments to predict 24H future signal, also powered by Vercel.
+
+Real Time Current API: https://app.exchangerate-api.com/dashboard - You can fetch your own or use what's one already embedded in this project. I would advice to get your own so it doesn't go down for any reason in future.
 
 **Insturction Set I-**
 If you are trying to run this whole code repo locally in VS Code then please install below dependencies for a smooth sail and less errors.
@@ -22,9 +24,9 @@ npx shadcn@latest add "https://v0.dev/chat/b/b_pJb7uN9vaRc?token=eyJhbGciOiJkaXI
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/bdd63938-0a98-44e0-8ff8-a550c1435a9a" />
 
 **Instruction Set II -** 
-Continue from Line Number 21 cmd. Also, see all GIT cmd you would use to sync the files from local to git repo remotely without drag or dropping the codebase in GIT.
+Continue from Line Number 23 cmd. Also, see all GIT cmd you would use to sync the files from local to git repo remotely without drag or dropping the codebase in GIT.
 
-Context- When I ran cmd show in line 21 npx shadcn@latest add "" it got all the latest deployed files from 
+Context- When I ran cmd show in line 23 npx shadcn@latest add "" it got all the latest deployed files from 
 
 In the set of files you'll see three files which have two copies, as follow. You'll have to review which one is working for you and delete the other one after taking backup to test which one is working.
 
