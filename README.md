@@ -1,6 +1,6 @@
 Every line is a must read
 
-**Website URL - _https://ycsjtsizxapriacj.vercel.app/_**
+**Website URL - _https://cryptotrendprediction.vercel.app/_**
 # cryptoSentimentPredictions
 This simple app powered by Coingecko API for data tries to use EMA technique and gather sentiments to predict 24H future signal, also powered by Vercel.
 
