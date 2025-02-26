@@ -1,7 +1,7 @@
 Every line is a must read
 
 **Website URL - _https://cryptotrendprediction.vercel.app/_**
-# cryptoSentimentPredictions
+# cryptoTrendPredictions
 This simple app powered by Coingecko API for data tries to use EMA technique and gather sentiments to predict 24H future signal, also powered by Vercel.
 
 Real Time Current API: https://app.exchangerate-api.com/dashboard - You can fetch your own or use what's one already embedded in this project. I would advice to get your own so it doesn't go down for any reason in future.
